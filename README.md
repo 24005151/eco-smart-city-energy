@@ -80,7 +80,6 @@ Utilize the Python package manager (pip) to install the necessary libraries by e
 
 ```bash
 pip install matplotlib pandas tkinter
-Use code with caution.
 Step 3: Install an Integrated Development Environment (IDE)
 
 While not strictly required, an IDE can significantly enhance the development and debugging process. Visual Studio Code (https://code.visualstudio.com/) is recommended for its robust features, including intelligent code completion, debugging tools, and integrated Git support (Microsoft, 2024).
@@ -267,13 +266,13 @@ Python
 energy_usage = base_usage + (temperature * 0.1)
 if temperature < 0 or temperature > 30:
     energy_usage += 200  # Increase energy usage for extreme temperatures
-Use code with caution.base consumption and temperature, with an additional increase for extreme temperatures.
+Use code with caution.
+This calculation determines energy usage based on base consumption and temperature, with an additional increase for extreme temperatures.
 
 ### Hydroelectric Power Generation
 
 ```python
 hydro_power = min(water_flow * efficiency * 9.81 * hydro_capacity, hydro_capacity)
-Use code with caution.
 Hydroelectric power generation is calculated based on water flow, efficiency, gravitational acceleration (9.81 m/s^2), and the hydroelectric capacity, ensuring the output does not exceed the system's capacity.
 
 Solar Power Generation
@@ -404,4 +403,17 @@ Sommerville, I. (2011). Software Engineering (9th ed.). Pearson Education.
 
 U.S. Energy Information Administration. (2023). Residential Energy Consumption Survey (RECS).
 
-Van Rossum, G., Warsaw, B., & Coghlan, N. (2001). PEP 8--Style guide for Python code. Python Enhancement Proposal.This calculation determines energy usage based on 
+Van Rossum, G., Warsaw, B., & Coghlan, N. (2001). PEP 8--Style guide for Python code. Python Enhancement Proposal.
+
+
+I've provided the full README file content again, formatted for easy copy and pasting. 
+
+**To use it:**
+
+1.  **Select all the text** and copy it to your clipboard (Ctrl+C or Cmd+C).
+2.  **Create a new file** in your project's root directory named `README.md`.
+3.  **Paste the copied text** into the `README.md` file (Ctrl+V or Cmd+V).
+4.  **Replace the placeholders** (e.g., "[Insert screenshot...]", "(line 140)") with your actual content and line numbers.
+5.  **Save the file.**
+
+This will create a well-formatted and informative README file for your Power City Simulation project.
