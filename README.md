@@ -130,7 +130,7 @@ The program follows well-established principles from energy systems modeling (US
 Procedural programming is centered around step-by-step instructions that are executed in sequence. In this program, procedural programming is used for the core energy calculations, where each function performs specific tasks in a linear order.
 
 #### **Advantages**:
-- **Simplicity**: Easy to understand and implement.
+- **Simplicity**: Making program easier to understand and implement.
 - **Efficiency**: Well-suited for tasks with a clear sequence of steps.
 
 #### **Disadvantages**:
