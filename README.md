@@ -231,8 +231,8 @@ _usage, grid_cost, baseline_cost):
 ## **7. Development Challenges and Solutions**
 
 ### **Debugging Process**
-- **Breakpoints**: Visual Studio Code’s debugger was used to set breakpoints and inspect variables during runtime. This helped identify issues with energy calculation discrepancies.
-- **Logging**: The `logging` library was employed to track the flow of the program and capture runtime issues, particularly in areas like user input handling and the event-driven parts of the GUI.
+- **Breakpoints**: Visual Studio Code’s debugger has been used to set breakpoints and to check variables during runtime. This has helped to identify issues with energy calculation issues and faults.
+- **Logging**: The `logging` library was used to track the flow of the program and detect any runtime issues, particularly with a issue like user input handling and the event-driven parts of the GUI.
 
 ### **Problems Encountered and Solutions**
 | **Issue**                  | **Solution**                                                                              |
