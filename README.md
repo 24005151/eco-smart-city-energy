@@ -261,8 +261,10 @@ _usage, grid_cost, baseline_cost):
 ### **2. Debugging Process**  
 ![Debugging Screenshot](path_to_debugging_screenshot.png)
 
-### **3. Running Simulations**  
-![Simulation Screenshot](path_to_simulation_screenshot.png)
+### **3. Running Simulation**  
+<img width="1512" alt="Screenshot 2024-12-06 at 10 06 30" src="https://github.com/user-attachments/assets/c87ef939-54c1-45ff-9828-8799f81e97f2">
+
+<img width="1512" alt="Screenshot 2024-12-06 at 10 07 22" src="https://github.com/user-attachments/assets/3ea02157-3d17-45ed-a328-f5461f1c9039">
 
 ---
 
@@ -273,20 +275,20 @@ _usage, grid_cost, baseline_cost):
 
 ---
 
-## **11. References and Citations**
+## **11. References**
 
-Fraunhofer Institute for Solar Energy Systems (2020) *Photovoltaic technology basics*. Available at: https://www.ise.fraunhofer.de/ (Accessed: 4 December 2023).
+Fraunhofer Institute for Solar Energy Systems (2020) *Photovoltaic technology basics*. Available at: https://www.ise.fraunhofer.de/ (Accessed: 3 December 2024).
 
 Hunter, J.D. (2007) ‘Matplotlib: A 2D graphics environment’, *Computing in Science & Engineering*, 9(3), pp. 90–95.
 
-International Renewable Energy Agency (2021) *Renewable energy technologies and grid integration*. Available at: https://www.irena.org/ (Accessed: 4 December 2023).
+International Renewable Energy Agency (2021) *Renewable energy technologies and grid integration*. Available at: https://www.irena.org/ (Accessed: 1 December 2024).
 
 Knuth, D.E. (1997) *The art of computer programming, Volume 1: Fundamental algorithms*. Addison-Wesley.
 
 McKinney, W. (2011) *Python for data analysis*. O’Reilly Media.
 
-Microsoft Corporation (2023) *Visual Studio Code*. Available at: https://code.visualstudio.com/ (Accessed: 4 December 2023).
+Microsoft Corporation (2023) *Visual Studio Code*. Available at: https://code.visualstudio.com/ (Accessed: 28 November 2024).
 
-Python Software Foundation (2023) *Python programming language*. Available at: https://www.python.org/ (Accessed: 4 December 2023).
+Python Software Foundation (2023) *Python programming language*. Available at: https://www.python.org/ (Accessed: 4 December 2024).
 
-US Department of Energy (2020) *Hydropower basics*. Available at: https://www.energy.gov/ (Accessed: 4 December 2023).
+US Department of Energy (2020) *Hydropower basics*. Available at: https://www.energy.gov/ (Accessed: 4 December 2024).
