@@ -298,13 +298,18 @@ This project has been an excellent opportunity to integrate multiple programming
 ## 9. Screenshots of the Development Process
 
 ### 1. User Interface Design
-![UI Design](images/ui_screenshot.png)
+<img width="1512" alt="Screenshot 2024-12-06 at 02 18 05" src="https://github.com/user-attachments/assets/bf20e88e-1161-48ac-b266-f6c7c7e3ff8e">
+<img width="1512" alt="Screenshot 2024-12-06 at 02 18 26" src="https://github.com/user-attachments/assets/f5cb0bae-a3fa-4e6b-adb6-b4445b585c9d">
+
 
 ### 2. Debugging Process
-![Debugging](images/debug_screenshot.png)
+<img width="1512" alt="Screenshot 2024-12-06 at 10 24 53" src="https://github.com/user-attachments/assets/f25dee6e-26be-4661-a65f-1742074683e3">
+<img width="1512" alt="Screenshot 2024-12-06 at 10 25 58" src="https://github.com/user-attachments/assets/09684b84-aba7-49bb-a299-094dd391a5d3">
+
 
 ### 3. Running Simulation
-![Simulation](images/simulation_screenshot.png)
+<img width="1512" alt="Screenshot 2024-12-06 at 10 06 30" src="https://github.com/user-attachments/assets/a6e17c69-4e62-4e91-a79c-8b75206355fd">
+<img width="1512" alt="Screenshot 2024-12-06 at 10 07 22" src="https://github.com/user-attachments/assets/c5561055-4505-4116-8d99-1bdd5524469c">
 
 ---
 
