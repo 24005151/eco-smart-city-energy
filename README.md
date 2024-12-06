@@ -259,8 +259,8 @@ _usage, grid_cost, baseline_cost):
 
 
 ### **2. Debugging Process**  
-<img width="1512" alt="Screenshot 2024-12-06 at 10 21 57" src="https://github.com/user-attachments/assets/ee373e93-2833-461a-9c7c-bdd780ae2e42">
-<img width="1512" alt="Screenshot 2024-12-06 at 10 21 22" src="https://github.com/user-attachments/assets/c747ff8b-2ce5-4e2a-b04b-98a64faa9729">
+<img width="1512" alt="Screenshot 2024-12-06 at 10 24 53" src="https://github.com/user-attachments/assets/2079888e-be0f-40b9-82ac-36b6952d0e3e">
+<img width="1512" alt="Screenshot 2024-12-06 at 10 25 58" src="https://github.com/user-attachments/assets/757d02e1-b488-47e6-a19c-b3a48dfe15d3">
 
 
 ### **3. Running Simulation**  
