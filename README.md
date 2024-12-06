@@ -255,7 +255,9 @@ _usage, grid_cost, baseline_cost):
 ## **9. Screenshots of the Development Process**
 
 ### **1. User Interface Design**  
-![GUI Screenshot](path_to_gui_screenshot.png)
+<img width="1512" alt="Screenshot 2024-12-06 at 02 18 05" src="https://github.com/user-attachments/assets/dc07a893-f47b-497e-9e17-90ef9163b819">
+<img width="1512" alt="Screenshot 2024-12-06 at 02 18 26" src="https://github.com/user-attachments/assets/accb55a2-7b46-42ec-80bb-cd772d3f3f66">
+
 
 ### **2. Debugging Process**  
 ![Debugging Screenshot](path_to_debugging_screenshot.png)
