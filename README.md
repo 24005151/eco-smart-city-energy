@@ -148,12 +148,12 @@ def simulate_solar_power(solar_radiation, solar_capacity, panel_efficiency):
 OOP is used to organize the program into objects that represent different entities (e.g., energy systems, GUI elements). It allows for modular, reusable, and scalable code by encapsulating related data and behavior into classes.
 
 #### **Advantages**:
-- **Modularity**: Code is organized into self-contained units (classes), making it easier to manage and extend.
+- **Modularity**: Code is prepared into self-contained units (classes), making it easier to manage and expand.
 - **Reusability**: Classes and objects can be reused across different parts of the program.
 
 #### **Disadvantages**:
-- **Complexity**: Can introduce unnecessary complexity, especially for small programs.
-- **Memory Usage**: OOP can result in higher memory consumption due to the creation of objects.
+- **Complexity**: Can increase unnecessary complexity of the program, especially for small programs.
+- **Memory Usage**: OOP can result in a higher memory consumption due to the creation of objects.
 
 #### **Example**:
 A class representing an energy system:
@@ -168,15 +168,14 @@ class EnergySystem:
 ```
 
 ### **Event-Driven Programming**
-Event-driven programming is used to create interactive applications that respond to user actions, such as clicks or key presses. In this program, the GUI is event-driven, where events like button clicks trigger actions like running simulations and displaying results.
-
+Event driven programming is used to create interactive applications that responds to user actions, such as clicks or key presses. In this program the GUI is event driven, where events like button clicks trigger actions like running simulations and displaying results.
 #### **Advantages**:
-- **User Interaction**: Ideal for applications where user input drives the program's behavior.
-- **Responsiveness**: Can provide real-time feedback and updates to users.
+- **User Interaction**: Good for applications where user input drives the program.
+- **Responsiveness**: Can provide real-time updates to the user.
 
 #### **Disadvantages**:
-- **Complexity**: Managing events and ensuring smooth interaction can be challenging in large applications.
-- **Performance**: Event-driven programs may become less responsive if not optimized properly.
+- **Complexity**: Events and interactions can get unnecessary in big applications
+- **Performance**: Event driven programs can become slow if not optimised.
 
 #### **Example**:
 In the GUI, a button click event triggers the simulation:
