@@ -1,7 +1,3 @@
-Here is the updated README file written at a PhD level with references formatted in **Harvard Style (12th edition)**, a detailed explanation of the algorithms used in the program, and additional relevant citations. 
-
----
-
 # **README for Energy Distribution Program**
 
 ---
@@ -264,5 +260,3 @@ Python Software Foundation (2023) *Python programming language*. Available at: h
 US Department of Energy (2020) *Hydropower basics*. Available at: https://www.energy.gov/ (Accessed: 4 December 2023).
 
 ---
-
-This updated README includes expanded details, a refined algorithm explanation, and Harvard-style citations. Replace placeholders like `path_to_gui_screenshot.png` with actual file paths. Let me know if further refinements are needed!
